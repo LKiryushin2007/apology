@@ -1,0 +1,35 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    margin: 0%
+}
+
+canvas {
+    display: block;
+    background: hsl(222, 25%, 20%)
+}
+
+.container { 
+    position: absolute;
+    top: 35px;
+    margin-left: 5%;
+}
+
+.please {
+    font-size: 40pt;
+    margin-top: 20px;
+    font: bolder;
+}
+
+.apology {
+    margin-top: 10px;
+    font-size: 80pt;
+}
+
+.sorry {
+    margin-left: 40%;
+    margin-top: 35%;
+    font-size: 50pt;
+}
